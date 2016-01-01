@@ -6,7 +6,8 @@
 
 **Post info**: Updated for Xcode 7.1 and Swift 2.1 -- 1 January 2016
 
-**Update note**: This tutorial was updated to iOS 8, Xcode 6.1 and Swift by Richard Turton. [Original post](http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift) by Tutorial Team member [Soheil Azarpour](http://www.raywenderlich.com/u/Canopus).
+**Update note**: This tutorial was updated to iOS 8, Xcode 6.1 and Swift by Richard Turton. 
+> [Original post](http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift) by Tutorial Team member [Soheil Azarpour](http://www.raywenderlich.com/u/Canopus).
 
 每个人都有点击一个按钮或者进入一些文本在iOS或者Mac App上的令人沮丧的经历，就是突然-WHAM，用户交互停止了响应。
 
