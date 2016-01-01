@@ -4,7 +4,7 @@
 * 原文链接：<http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift>
 * 译者[@oneruofeng](https://twitter.com/oneruofeng)
 
-**Update 1 January 2016**: Updated for Xcode 7.1 and Swift 2.1
+**Post info**: Updated for Xcode 7.1 and Swift 2.1 -- 1 January 2016
 
 **Update note**: This tutorial was updated to iOS 8, Xcode 6.1 and Swift by Richard Turton. [Original post](http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift) by Tutorial Team member [Soheil Azarpour](http://www.raywenderlich.com/u/Canopus).
 
