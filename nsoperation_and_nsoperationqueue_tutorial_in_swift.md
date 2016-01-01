@@ -587,7 +587,7 @@ filterOperation.removeDependency(downloadOperation)
 这个工程是否能使用依赖简化呢？把你学到的新技能用起来试一试 ：]
 有件非常重要的事需要注意的就是一个依赖操作将仍然启动假如它依赖的操作被取消，还有它将自然完成。你需要牢记在心。
 
-假如你有任何评论或者问题关于这个教程或者`NSOperations`,请加`Pull request`。
+假如你有任何评论或者问题关于这个教程或者`NSOperations`,请加[Pull request](https://github.com/wangruofeng/Github_Blog/pulls)。
 
 
 
