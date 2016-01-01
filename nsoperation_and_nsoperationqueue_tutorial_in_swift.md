@@ -46,7 +46,7 @@
 
 还有，你将载入一系列图片请求从网络当它第一次被请求时:
 
-```objectivc-c
+```swift
   lazy var photos = NSDictionary(contentsOfURL:dataSourceURL)
 ```
 
@@ -124,7 +124,7 @@ Okey！ 现在你准备好开始码代码了！ :]
 打开你下载的工程，添加一个新的**Swift File**到你的工程中命名为** PhotoOperations.swift**。添加下面代码：
 
 
-```js
+```swift
 class PendingOperations {
   lazy var downloadsInProgress = [NSIndexPath:NSOperation]()
   lazy var downloadQueue:NSOperationQueue = {
@@ -158,7 +158,7 @@ class PendingOperations {
 
 是时候考虑下载和过滤操作了。添加下列代码到` PhotoOperations.swift:`文件的末尾：
 
-```js
+```swift
 class ImageDownloader: NSOperation {
   //1
   let photoRecord: PhotoRecord
@@ -210,7 +210,7 @@ class ImageDownloader: NSOperation {
 
 下一步，你将创建另一个操作来处理图片加滤镜的操作！添加下面的代码到`PhotoOperations.swift`文件末尾：
 
-```js
+```swift
 class ImageFiltration: NSOperation {
   let photoRecord: PhotoRecord
 
@@ -238,7 +238,7 @@ class ImageFiltration: NSOperation {
 
 添加遗失的图片滤镜处理方法到`ImageFiltration`类中:
 
-```js
+```swift
 (image:UIImage) -> UIImage? {
   let inputImage = CIImage(data:UIImagePNGRepresentation(image))
 
@@ -552,12 +552,16 @@ func loadImagesForOnscreenCells () {
 
 ![improved app](http://ww2.sinaimg.cn/mw690/64124373gw1ezkdl5q55nj20jg09qq4h.jpg)
 
-**原来的相册，载入东西一步一次**
+**原来的相册，载入东西一次一个**
 
 注意到当你完成滚动表视图，在可见区域行的cell的图片立即开始处理。
 
 ### 何去何从？
 这里是[completed version of the project](http://cdn2.raywenderlich.com/wp-content/uploads/2014/10/ClassicPhotos-Final63.zip)。
+
+> 注意：此教程写于`Update 17 April 2015: Updated for Xcode 6.3 and Swift 1.2`,现在Swift最新版本2.1使用Xcode7+以上编辑会报错，这里打包一个新语法修改版[completed fixed version of the project](http://cdn2.raywenderlich.com/wp-content/uploads/2014/10/ClassicPhotos-Final63.zip)。
+> 
+> 
 
 假如你完成这个工程应该花时间来真正理解它，恭喜你！你可以认为你自己是一位更有价值iOS开发者了比起在教程刚开始的时候！大多数开发的公司是非常幸运的有一个或者两个人正在知道这个东西。
 
