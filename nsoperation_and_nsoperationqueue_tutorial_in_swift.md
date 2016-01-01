@@ -559,7 +559,7 @@ func loadImagesForOnscreenCells () {
 ### 何去何从？
 这里是[completed version of the project](http://cdn2.raywenderlich.com/wp-content/uploads/2014/10/ClassicPhotos-Final63.zip)。
 
-> 注意：此教程写于`Update 17 April 2015: Updated for Xcode 6.3 and Swift 1.2`,现在Swift最新版本2.1使用Xcode7+以上编辑会报错，这里打包一个新语法修改版[completed fixed version of the project](http://cdn2.raywenderlich.com/wp-content/uploads/2014/10/ClassicPhotos-Final63.zip)。
+> 注意：此教程写于`Update 17 April 2015: Updated for Xcode 6.3 and Swift 1.2`,现在Swift最新版本2.1使用Xcode7+以上编辑会报错，这里打包一个新语法修改版[completed fixed version of the project](https://github.com/wangruofeng/ClassicPhotos-Starter-fixed/archive/master.zip)。
 > 
 > 
 
