@@ -101,7 +101,7 @@
 
 ![NSOperation_model_improved](http://ww3.sinaimg.cn/mw690/64124373gw1ezk6m9a5xzj20i20nm416.jpg)
 
-**改进后的 model**
+*改进后的 model*
 
 为了摆脱你应用的瓶颈，你需要一个指定一个线程来响应你的用户时间，一个线程专注于下载资源和图片，一个线程执行图片滤镜操作。在新的模型中，app从主线程启动让后载入一个空的表视图。同时，app启动第二个线程开始下载数据资源。
 
@@ -115,7 +115,7 @@
 
 ![Control Flow](http://ww3.sinaimg.cn/mw690/64124373gw1ezk75nd4bdj20i206yq3q.jpg)
 
-**Cotroll Flow**
+*Cotroll Flow*
 
 为了获得这些对象，你需要跟踪这张图片现在是否正在被下载，一旦完成下载，假如图片的滤镜被应用上。你需要跟跟踪每个操作的状态，它是否正在下载中或者执行滤镜操作，以便你能够取消，暂停或者恢复每个操作当用户滚动的时候。
 
@@ -435,7 +435,7 @@ Okey!下面是一个快速列表来帮助你立即上面的代码到底做了什
 
 ![classicphotos-stalled-screenshot](http://ww2.sinaimg.cn/mw690/64124373gw1ezkc6fh23sj205x08wdga.jpg)
 
-**原来的图片，现在可以滚动了**
+*原来的图片，现在可以滚动了*
 
 是不是很酷？你能看到随做你的进步让你的应用更易于响应能做出的努力 --对用户来说更有趣！
 
@@ -552,7 +552,7 @@ func loadImagesForOnscreenCells () {
 
 ![improved app](http://ww2.sinaimg.cn/mw690/64124373gw1ezkdl5q55nj20jg09qq4h.jpg)
 
-**原来的相册，载入东西一次一个**
+*原来的相册，载入东西一次一个*
 
 注意到当你完成滚动表视图，在可见区域行的cell的图片立即开始处理。
 
