@@ -3,7 +3,7 @@
 
 
 # 这是什么？
-> 此文将讲解通过形状图层`CAShaperLayer`的`strokeStart`和`strokeEnd`来实现动画绘制路径`CGPath`,此文是[By Ole Begemann](http://oleb.net)创造于December 18, 2010,当时是发布iOS SDK 4.2时`CAShapeLayer`新增加的两个属性[strokeStart](http://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CAShapeLayer_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008314-CH1-SW16)和[strokeEnd](http://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CAShapeLayer_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008314-CH1-SW15),这两个值是两个浮点数取值范围0.0~1.0,用来表明形状图层所指向的路径在绘制开始和结束路径中的相对位置。
+> 此文将讲解通过形状图层`CAShaperLayer`的`strokeStart`和`strokeEnd`来实现动画绘制路径`CGPath`,此文是[By Ole Begemann](http://oleb.net)创建于December 18, 2010,当时是发布iOS SDK 4.2时`CAShapeLayer`新增加的两个属性[strokeStart](http://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CAShapeLayer_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008314-CH1-SW16)和[strokeEnd](http://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CAShapeLayer_class/Reference/Reference.html#//apple_ref/doc/uid/TP40008314-CH1-SW15),这两个值是两个浮点数取值范围0.0~1.0,用来表明形状图层所指向的路径在绘制开始和结束路径中的相对位置。
 
 `strokeStart`默认值是0.0，`strokeEnd`默认值是1.0，显然这会导致形状图层的路径将一整个被绘制。假如，你想说，如果设置了layer.strokeEnd = 0.5f,只让她绘制前半部分，那该多好。
 
