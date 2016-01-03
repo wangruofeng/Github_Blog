@@ -53,12 +53,12 @@
 * [ciechanowski](http://ciechanowski.me)--各种数学上几何变化
 * [bignerdranch](https://www.bignerdranch.com/blog/)
 * [cocoawithlove](http://www.cocoawithlove.com)--2008-2011的老文章，现在没怎么跟新了
+* [codinghorror](http://blog.codinghorror.com/) --[Jeff Atwood ](https://twitter.com/codinghorror)主站
 
 ## 团体blog
 * [ibireme](http://blog.ibireme.com)--最近很🔥的YYKit的作者
 * [Glow技术团队](http://tech.glowing.com/cn/)
 * [美团点评技术团队](http://tech.meituan.com)
-* 
 
 
 ## 优质iOS学习资源
