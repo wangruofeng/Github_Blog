@@ -54,6 +54,7 @@
 * [bignerdranch](https://www.bignerdranch.com/blog/)
 * [cocoawithlove](http://www.cocoawithlove.com)--2008-2011的老文章，现在没怎么跟新了
 * [codinghorror](http://blog.codinghorror.com/) --[Jeff Atwood ](https://twitter.com/codinghorror)主站
+* [g8production](http://www.g8production.com/)
 
 ## 团体blog
 * [ibireme](http://blog.ibireme.com)--最近很🔥的YYKit的作者
