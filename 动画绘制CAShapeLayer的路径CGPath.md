@@ -49,7 +49,7 @@ penAnimation.calculationMode = kCAAnimationPaced;
 # 补充说明
 
 ```objective-c
-CAShapeLayer *pathLayer = [CAShapeLayer layer];
+    CAShapeLayer *pathLayer = [CAShapeLayer layer];
     pathLayer.frame = self.animationLayer.bounds;
     pathLayer.bounds = pathRect;
     pathLayer.geometryFlipped = YES;
