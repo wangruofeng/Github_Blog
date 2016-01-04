@@ -17,7 +17,11 @@
 11. [多线程之NSOperation](https://github.com/wangruofeng/Github_Blog/blob/master/多线程之NSOperation.md)
 12. [工厂模式详解](https://github.com/wangruofeng/Github_Blog/blob/master/工厂模式详解.md)
 13. [动画绘制CAShapeLayer的路径CGPath](https://github.com/wangruofeng/Github_Blog/blob/master/动画绘制CAShapeLayer的路径CGPath.md)
+14. [GET&POST](https://github.com/wangruofeng/Github_Blog/blob/master/GET%26POST.md)
+15. [HTTP POST And Multipart Forms](https://github.com/wangruofeng/Github_Blog/blob/master/http_post_and_multipart_forms.md)
+16. [iOS中的触摸事件和手势处理](https://github.com/wangruofeng/Github_Blog/blob/master/iOS中的触摸事件和手势处理.md)
 
 
 # Bonus
 * [Blog网站备忘录](https://github.com/wangruofeng/Github_Blog/blob/master/Blog网站备忘录.md)--收集了各种非常不错的博客和网站
+* [iOS里程碑事](https://github.com/wangruofeng/Github_Blog/blob/master/iOS里程碑事件.md)
