@@ -24,4 +24,4 @@
 
 # Bonus
 * [Blog网站备忘录](https://github.com/wangruofeng/Github_Blog/blob/master/Blog网站备忘录.md)--收集了各种非常不错的博客和网站
-* [iOS里程碑事](https://github.com/wangruofeng/Github_Blog/blob/master/iOS里程碑事件.md)
+* [iOS里程碑事件](https://github.com/wangruofeng/Github_Blog/blob/master/iOS里程碑事件.md)
