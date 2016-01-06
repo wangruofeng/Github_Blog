@@ -33,6 +33,7 @@
 * [破船之家](http://beyondvincent.com)--这让我想起，喝上一杯朗姆酒🍺
 * [MacTalk-池建强的随想录](http://macshuo.com/?page_id=93)--Mac开发大牛
 * [雨松MOMO](http://www.xuanyusong.com)--专注移动互联网，专注Unity3D游戏开发,国内最早开发Unity3d的大神之一
+* [iliunian](http://www.iliunian.com/2949.html)--里面文章很多，细分得全
 
 ## 国外个人
 * [mikeash](https://www.mikeash.com)--白天飞行员，晚上程序员 ：] just this guy, you know?
