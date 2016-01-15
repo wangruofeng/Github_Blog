@@ -1069,4 +1069,4 @@ NSURLSessionDataTask *dataTask = [_session dataTaskWithURL:url
 * [NSURLSession Tutorial](http://www.raywenderlich.com/51127/nsurlsession-tutorial)
 
 
-译者注：欢迎转载，但请一定注明出处！ <http://blog.wangruofeng007.com>
+译者注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog/edit/master/NSURLSession%20教程.md>
