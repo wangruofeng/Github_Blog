@@ -1,9 +1,10 @@
 ## 图片
 Markdown 使用一种和链接很相似的语法来标记图片，同样也允许两种样式： 行内式和参考式。
 
-![Alt text](/path/to/img.jpg)
-
-![Alt text](/path/to/img.jpg "Optional title")
+```
+  ![Alt text](/path/to/img.jpg)
+  ![Alt text](/path/to/img.jpg "Optional title")
+```
 
 > 详细叙述如下：
 > 一个惊叹号 !
@@ -12,11 +13,15 @@ Markdown 使用一种和链接很相似的语法来标记图片，同样也允�
 
 参考式的图片语法则长得像这样：
 
-![Alt text][id]
+```
+  ![Alt text][id]
+```
 
 「id」是图片参考的名称，图片参考的定义方式则和连结参考一样：
 
-[id]: url/to/image  "Optional title attribute"
+```
+ [id]: url/to/image  "Optional title attribute"
+```
 
 ## 其他
 ### 自动链接
