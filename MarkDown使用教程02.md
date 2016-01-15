@@ -8,6 +8,12 @@ Markdown 使用一种和链接很相似的语法来标记图片，同样也允�
 
 例如：
 
+```
+![github](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png)
+```
+
+效果如下：
+
 ![github](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png)
 
 > 详细叙述如下：
@@ -28,6 +34,13 @@ Markdown 使用一种和链接很相似的语法来标记图片，同样也允�
 ```
 
 例如:
+
+```
+ ![Github][007]
+ [007]:https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png "github icon image"
+```
+
+效果如下：
 
  ![Github][007]
  [007]:https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png "github icon image"
