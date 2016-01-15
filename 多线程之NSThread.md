@@ -124,3 +124,5 @@ NSDate *date = [NSDate dateWithTimeInterval:2 sinceDate:[NSDate date]];
 ### 6.优缺点
 1. 优点：`NSThread`比其他多线程方案较轻量级，更直观地控制线程对象
 2. 缺点：需要自己管理线程的生命周期，线程同步。线程同步对数据的加锁会有一定的系统开销
+
+备注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>

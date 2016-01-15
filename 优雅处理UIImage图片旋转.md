@@ -256,3 +256,5 @@ UIImag构造方式大致有4种方式
 * [Apple-UIImage Class Reference](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIImage_Class/#//apple_ref/c/tdef/UIImageOrientation)
 * [ios-uiimageview-how-to-handle-uiimage-image-orientation](http://stackoverflow.com/questions/8915630/ios-uiimageview-how-to-handle-uiimage-image-orientation)
 * [UIImageOrientation / EXIF orientation sample images](http://www.galloway.me.uk/2012/01/uiimageorientation-exif-orientation-sample-images/)
+
+备注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>

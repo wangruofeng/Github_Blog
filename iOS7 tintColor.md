@@ -49,3 +49,5 @@ image = [image imageWithRenderingMode:UIImageRenderingModeAlwaysTemplate];
 
 
 ### 参考链接 [Demo - iOS7 tintColor day by day](https://www.shinobicontrols.com/blog/ios7-day-by-day-day-6-tint-color)
+
+备注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>

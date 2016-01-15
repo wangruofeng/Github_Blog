@@ -38,3 +38,5 @@ Date: Wed, 18 Feb 2009 07:55:26 GMT
 
 *注意：如果用户的请求中含有range ，则服务器的相应代码为206。
 206 - Partial Content 客户发送了一个带有Range头的GET请求，服务器完成了它（HTTP 1.1新）。*
+
+备注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>

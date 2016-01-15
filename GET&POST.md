@@ -70,3 +70,5 @@ NSURLConnection提供了两个静态方法可以直接以同步或异步的方�
 // 网络连接错误
 -(void)connection:didFailWithError:
 ```
+
+备注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>

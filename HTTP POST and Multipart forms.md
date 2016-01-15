@@ -96,3 +96,5 @@ Now all we need to do is make a connection to the server and send the request:
 	
 	[NSURLConnection sendSynchronousRequest:request returningResponse:&response error:&error];
 ```
+
+备注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>

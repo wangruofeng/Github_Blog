@@ -96,14 +96,4 @@ penAnimation.calculationMode = kCAAnimationPaced;
 重复点击`UISegmentedControl`导致铅笔消失，这是设置了` penAnimation.delegate = self;`在代理方法里面没有判断结束直接将设置`self.penLayer.hidden = YES`，导致连续切换时铅笔不见了，要修复这个bug只需加一个判断`    if (flag)   self.penLayer.hidden = YES;
 `即可,这样的意思是只有当动画完成时才设置`self.penLayer.hidden`的值，好了现在已经非常完美了，快去动手自己试试吧！🍺
 
-
-
-
-
-
-
-
-
-
-
-
+备注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>

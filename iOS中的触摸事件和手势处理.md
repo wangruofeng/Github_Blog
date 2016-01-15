@@ -271,3 +271,5 @@ typedef NS_ENUM(NSInteger, UIGestureRecognizerState) {
 ```
 
 参考资料：[傲风凌寒的博客](http://my.oschina.net/aofe/blog/268749)
+
+备注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>

@@ -591,7 +591,4 @@ filterOperation.removeDependency(downloadOperation)
 
 假如你有任何评论或者问题关于这个教程或者`NSOperations`,请加[Pull request](https://github.com/wangruofeng/Github_Blog/pulls)。
 
-
-
-
-
+译者注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>

@@ -39,3 +39,5 @@ _   底线
 -   减号
 .   英文句点
 !   惊叹号
+
+备注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>

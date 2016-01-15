@@ -39,3 +39,5 @@ objc_autorelease(obj);
 objc_autoreleasePoolPop(pool);
 ```
 虽然持有对象的方法从alloc 方法变为objc_retainAutoreleasedReturnValue 函数， 但注册autoreleasepool 的方法没有改变，仍是objc_autorelease 函数。
+
+备注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>

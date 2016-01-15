@@ -155,3 +155,6 @@ self.connection = [[NSURLConnection alloc] initWithRequest:request delegate:self
 * [SDWebImage](https://github.com/rs/SDWebImage)
 * [TestButtonDown](http://hayne.net/MacDev/TestButtonDown/)
 * [关于NSRunloop的学习和理解](http://billwang1990.github.io/blog/2013/12/30/nsrunloop-issue/)
+
+备注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>
+

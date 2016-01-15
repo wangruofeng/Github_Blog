@@ -136,3 +136,6 @@ long double __attribute__((overloadable)) tgsin(long double x) { return sinl(x);
 还有`__attribute__`并不仅仅对编译器有用：下一个人看代码也将感谢这些额外的上下文。所以多走几英尺远将对你的合作中和接替者或者从现在算2年以后的你(那个时候你已经忘记了所以的事情关于这份代码)自己有用
 
 你付出了多少爱,最终你会得到多少爱。
+
+
+译者注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>
