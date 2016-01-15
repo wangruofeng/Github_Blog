@@ -20,6 +20,7 @@
 14. [GET&POST](https://github.com/wangruofeng/Github_Blog/blob/master/GET%26POST.md)
 15. [HTTP POST And Multipart Forms](https://github.com/wangruofeng/Github_Blog/blob/master/http_post_and_multipart_forms.md)
 16. [iOS中的触摸事件和手势处理](https://github.com/wangruofeng/Github_Blog/blob/master/iOS中的触摸事件和手势处理.md)
+17. 翻译：[NSURLSession 教程](https://github.com/wangruofeng/Github_Blog/blob/master/NSURLSession%20教程.md)
 
 
 # Bonus
