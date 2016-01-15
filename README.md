@@ -18,9 +18,9 @@
 13. [GET&POST](https://github.com/wangruofeng/Github_Blog/blob/master/GET%26POST.md)
 14. [HTTP POST And Multipart Forms](https://github.com/wangruofeng/Github_Blog/blob/master/HTTP%20POST%20and%20Multipart%20forms.md)
 15. [iOS中的触摸事件和手势处理](https://github.com/wangruofeng/Github_Blog/blob/master/iOS中的触摸事件和手势处理.md)
-16. 翻译：[\__attribute\__](https://github.com/wangruofeng/Github_Blog/blob/master/__attribute__.md)
-17. 翻译:[NSOperation and NSOperationQueue Tutorial in Swift](https://github.com/wangruofeng/Github_Blog/blob/master/NSOperation%20and%20NSOperationqueue%20tutorial%20in%20swift.md)
-17. 翻译：[NSURLSession 教程](https://github.com/wangruofeng/Github_Blog/blob/master/NSURLSession%20教程.md)
+16. 翻译: [\__attribute\__](https://github.com/wangruofeng/Github_Blog/blob/master/__attribute__.md)
+17. 翻译: [NSOperation and NSOperationQueue Tutorial in Swift](https://github.com/wangruofeng/Github_Blog/blob/master/NSOperation%20and%20NSOperationqueue%20tutorial%20in%20swift.md)
+17. 翻译: [NSURLSession 教程](https://github.com/wangruofeng/Github_Blog/blob/master/NSURLSession%20教程.md)
 
 
 # Bonus
