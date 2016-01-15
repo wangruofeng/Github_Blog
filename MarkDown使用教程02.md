@@ -6,6 +6,10 @@ Markdown 使用一种和链接很相似的语法来标记图片，同样也允�
   ![Alt text](/path/to/img.jpg "Optional title")
 ```
 
+例如：
+
+![github](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png)
+
 > 详细叙述如下：
 > 一个惊叹号 !
 > 接着一个方括号，里面放上图片的替代文字
@@ -23,8 +27,20 @@ Markdown 使用一种和链接很相似的语法来标记图片，同样也允�
  [id]: url/to/image  "Optional title attribute"
 ```
 
+例如:
+
+ ![Github][007]
+ [007]:https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png "github icon image"
+
+
 ## 其他
 ### 自动链接
+```
+<http://example.com/>
+
+<address@example.com>
+```
+
 <http://example.com/>
 
 <address@example.com>
