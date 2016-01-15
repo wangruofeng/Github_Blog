@@ -1,9 +1,20 @@
 ## 图片
 Markdown 使用一种和链接很相似的语法来标记图片，同样也允许两种样式： 行内式和参考式。
 
-![Alt text](/path/to/img.jpg)
+```
+  ![Alt text](/path/to/img.jpg)
+  ![Alt text](/path/to/img.jpg "Optional title")
+```
 
-![Alt text](/path/to/img.jpg "Optional title")
+例如：
+
+```
+![github](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png)
+```
+
+效果如下：
+
+![github](https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png)
 
 > 详细叙述如下：
 > 一个惊叹号 !
@@ -12,14 +23,39 @@ Markdown 使用一种和链接很相似的语法来标记图片，同样也允�
 
 参考式的图片语法则长得像这样：
 
-![Alt text][id]
+```
+  ![Alt text][id]
+```
 
 「id」是图片参考的名称，图片参考的定义方式则和连结参考一样：
 
-[id]: url/to/image  "Optional title attribute"
+```
+ [id]: url/to/image  "Optional title attribute"
+```
+
+例如:
+
+```
+ ![Github][007]
+ [007]:https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png "github icon image"
+```
+
+效果如下：
+
+ ![Github][007]
+ [007]:https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-128.png "github icon image"
+
 
 ## 其他
 ### 自动链接
+```
+<http://example.com/>
+
+<address@example.com>
+```
+
+效果如下:
+
 <http://example.com/>
 
 <address@example.com>
@@ -27,17 +63,17 @@ Markdown 使用一种和链接很相似的语法来标记图片，同样也允�
 ## 反斜杠
 Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的符号：
 
-\   反斜线
-`   反引号
-*   星号
-_   底线
-{}  花括号
-[]  方括号
-()  括弧
-#   井字号
-+   加号
--   减号
-.   英文句点
-!   惊叹号
+* \   反斜线
+* `   反引号
+* \*  星号
+* _   底线
+* {}  花括号
+* []  方括号
+* ()  括弧
+* #   井字号
+* +   加号
+* -   减号
+* .   英文句点
+* !   惊叹号
 
 备注：欢迎转载，但请一定注明出处！ <https://github.com/wangruofeng/Github_Blog>
