@@ -54,6 +54,8 @@ Markdown 使用一种和链接很相似的语法来标记图片，同样也允�
 <address@example.com>
 ```
 
+效果如下:
+
 <http://example.com/>
 
 <address@example.com>
